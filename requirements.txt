@@ -1,0 +1,21 @@
+# Core RAG & LLM
+langchain==0.3.25
+langchain-community==0.3.24
+groq>=0.5.0
+
+# Vector Store (FAISS — pre-built wheels, no C++ compiler needed)
+faiss-cpu>=1.9.0
+
+# Embeddings
+sentence-transformers==4.1.0
+
+# PDF Parsing
+pdfplumber==0.11.4
+pypdf==5.4.0
+
+# UI
+streamlit==1.45.0
+
+# Utilities
+python-dotenv==1.1.0
+numpy>=2.0.0

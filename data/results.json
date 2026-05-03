@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q1",
+    "retrieved_standards": [
+      "IS 12269"
+    ],
+    "latency_seconds": 6.9
+  },
+  {
+    "id": "q2",
+    "retrieved_standards": [
+      "IS 1786"
+    ],
+    "latency_seconds": 0.88
+  },
+  {
+    "id": "q3",
+    "retrieved_standards": [
+      "IS 13757",
+      "IS 12894"
+    ],
+    "latency_seconds": 0.67
+  },
+  {
+    "id": "q4",
+    "retrieved_standards": [
+      "IS 383",
+      "IS 12269",
+      "IS 8112"
+    ],
+    "latency_seconds": 6.32
+  },
+  {
+    "id": "q5",
+    "retrieved_standards": [
+      "IS 383",
+      "IS 6579",
+      "IS 2116"
+    ],
+    "latency_seconds": 20.38
+  }
+]
